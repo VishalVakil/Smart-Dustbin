@@ -1,3 +1,5 @@
+// OPEN THIS CODE IN ARDUINO
+
 #include <SoftwareSerial.h>
  
 #define DEBUG true
