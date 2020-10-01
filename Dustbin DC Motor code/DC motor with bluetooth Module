@@ -54,6 +54,6 @@ void loop() {
   }
   if(data =='S')
   {
-    i=0;//if data recieved is 'S' then initialize '1' by 0 
+    i=0;//if data recieved is 'S' then initialize 'i' by 0 for the next cycle
   }
 }
